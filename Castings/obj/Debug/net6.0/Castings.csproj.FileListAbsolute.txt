@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\bin\Debug\net6.0\Castings.exe
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\bin\Debug\net6.0\Castings.deps.json
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\bin\Debug\net6.0\Castings.runtimeconfig.json
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\bin\Debug\net6.0\Castings.dll
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\bin\Debug\net6.0\Castings.pdb
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.dll
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\refint\Castings.dll
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.pdb
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\Castings.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Castings\Castings\Castings\obj\Debug\net6.0\ref\Castings.dll
